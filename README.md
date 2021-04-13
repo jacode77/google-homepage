@@ -1,0 +1,1 @@
+This project will put to test my comprehension from The Odin Project introduction course. Specifically it is aimed to demonstrate my ability to build a website using HTML & CSS, through the use of a code editor, Git and GitHub.
